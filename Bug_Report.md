@@ -1,9 +1,5 @@
 # Bug Report Template
 
-Help your QAs and the rest of your Agile Team members report bugs consistently! Use the bug report template for Jira issues and speed up the issue preparation process. This template ensures the reporter will provide enough information for the team to reproduce and fix the bug.
-
----
-
 Provide a general summary of the issue in the Title above.
 
 ### Expected Behaviour
