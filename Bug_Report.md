@@ -1,40 +1,59 @@
-# Bug Report Template
+## Issue Summary
 
-Provide a general summary of the issue in the Title above.
+<!-- Write 2-3 lines short summary -->
 
-### Expected Behaviour
+## 📋 Expected Behavior
 
-Tell us what should happen.
+<!-- What should happen? -->
 
-### Actual Behaviour
+## ❌ Actual Behavior
 
-Tell us what happens instead of the expected behavior.
+<!-- What happens instead? -->
 
-### Possible Solution
-
-Not obligatory, but suggest a fix/reason for the bug.
-
-### Steps to Reproduce
-
-Provide a link to a live example, or an unambiguous set of steps to reproduce this bug. Include screenshots / video clips or code to reproduce, if relevant.
+## 🔄 Steps to Reproduce
 
 1. Do this
 2. Then do that
+3. See the bug
 
-### Context
+<!-- Include screenshots, video, or code if helpful -->
 
-How has this issue affected you? What are you trying to accomplish?
-Providing context helps us come up with a solution that is most useful in the real world
-Provide a general summary of the issue in the Title above.
+## 📱 Platform (check all that apply)
 
-### Environment
+- [ ] Web (Desktop)
+- [ ] Web (Mobile/Tablet)
+- [ ] iOS App
+- [ ] Android App
+- [ ] Other: \***\*\_\_\_\_\*\***
 
-Which app version? Production / Staging? Are test accounts available to reproduce the behaviour? What iOS/Android version? Which device?
+## 🌍 Environment (check all that apply)
 
-### Detailed Description
+- [ ] Production
+- [ ] Staging/Testing
+- [ ] Development
 
-Provide a detailed description of the change or addition you are proposing.
+## ⚡ Impact Level (check one)
 
-### Possible Implementation
+- [ ] Low - Minor inconvenience
+- [ ] Medium - Affects functionality
+- [ ] High - Blocks major features
+- [ ] Critical - App/System unusable
 
-Not obligatory, but suggest an idea for implementing addition or change.
+## 💡 Context
+
+<!-- How has this affected you? What are you trying to accomplish? -->
+
+## 🔧 Environment Details
+
+**App version:**
+**Device:** (iPhone 13, Samsung Galaxy, MacBook, etc.)
+**OS:** (iOS 16.1, Android 12, Windows 11, etc.)  
+**Browser:** (Chrome 108, Safari 16, etc.)
+
+## 🛠️ Possible Solution (Optional)
+
+<!-- Any ideas for a fix or what might be causing this? -->
+
+## 📝 Additional Information
+
+<!-- Error messages, console logs, related issues, etc. -->

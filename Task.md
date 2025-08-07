@@ -1,28 +1,56 @@
-# Task Template
+## ⚡ Task Summary
 
-A workitem that needs to be done while developing a story or feature and does not span more than 2 days.
-Where a single actor takes a single action with a single output.
+<!-- Single sentence describing what needs to be done -->
 
----
+## 🎯 Acceptance Criteria
 
-Provide a general summary of the issue in the Title above.
+<!-- Measurable criteria - we know when we're done and it can be tested -->
 
-### Acceptance Criteria
+## 🔧 Task Type (check one)
 
-Tell us what should happen. It should be measurable so that we know when we're done and that it can be tested.
+- [ ] Frontend Development
+- [ ] Backend Development
+- [ ] API Development
+- [ ] Database Changes
+- [ ] Testing/QA
+- [ ] Documentation
+- [ ] Configuration/Setup
+- [ ] Bug Fix
+- [ ] Research/Investigation
 
-### Requirement Documents
+## 📈 Priority (check one)
 
-Add sketch / API documents.
+- [ ] Low - Can be done later
+- [ ] Medium - Should be done soon
+- [ ] High - Needed for story completion
+- [ ] Urgent - Blocking other work
 
-### Environment
+## 📋 Requirement Documents
 
-Provide test accounts if possible.
+<!-- Links to sketches, API docs, specs, wireframes -->
 
-### Possible Solution
+- Design
+- API Spec
+- Wireframes
+- Related Story
+- Confluence
 
-Not obligatory, but suggest a approach.
+## 💡 Possible Solution
 
-### Possible Implementation
+<!-- Suggested approach (optional) -->
 
-Not obligatory, but suggest an idea for implementing addition or change. Link to confluence page and / or story.
+## 🛠️ Possible Implementation
+
+<!-- Technical implementation ideas -->
+
+**Technical Approach:**
+
+- Files to modify:
+- Functions/methods:
+- Dependencies:
+
+**Related Links:**
+
+- Parent Story:
+- Confluence Page:
+- Related PRs:
