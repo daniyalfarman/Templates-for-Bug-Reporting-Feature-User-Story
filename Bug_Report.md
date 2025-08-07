@@ -1,0 +1,44 @@
+# Bug Report Template
+
+Help your QAs and the rest of your Agile Team members report bugs consistently! Use the bug report template for Jira issues and speed up the issue preparation process. This template ensures the reporter will provide enough information for the team to reproduce and fix the bug.
+
+---
+
+Provide a general summary of the issue in the Title above.
+
+### Expected Behaviour
+
+Tell us what should happen.
+
+### Actual Behaviour
+
+Tell us what happens instead of the expected behavior.
+
+### Possible Solution
+
+Not obligatory, but suggest a fix/reason for the bug.
+
+### Steps to Reproduce
+
+Provide a link to a live example, or an unambiguous set of steps to reproduce this bug. Include screenshots / video clips or code to reproduce, if relevant.
+
+1. Do this
+2. Then do that
+
+### Context
+
+How has this issue affected you? What are you trying to accomplish?
+Providing context helps us come up with a solution that is most useful in the real world
+Provide a general summary of the issue in the Title above.
+
+### Environment
+
+Which app version? Production / Staging? Are test accounts available to reproduce the behaviour? What iOS/Android version? Which device?
+
+### Detailed Description
+
+Provide a detailed description of the change or addition you are proposing.
+
+### Possible Implementation
+
+Not obligatory, but suggest an idea for implementing addition or change.
