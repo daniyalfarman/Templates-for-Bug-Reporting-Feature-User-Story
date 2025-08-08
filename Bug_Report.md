@@ -2,23 +2,21 @@
 
 <!-- Write 2-3 lines short summary -->
 
-## 📋 Expected Behavior
+## Expected Behavior
 
 <!-- What should happen? -->
 
-## ❌ Actual Behavior
+## Actual Behavior
 
 <!-- What happens instead? -->
 
-## 🔄 Steps to Reproduce
+## Steps to Reproduce
 
 1. Do this
 2. Then do that
 3. See the bug
 
-<!-- Include screenshots, video, or code if helpful -->
-
-## 📱 Platform (check all that apply)
+## Platform (check all that apply)
 
 - [ ] Web (Desktop)
 - [ ] Web (Mobile/Tablet)
@@ -26,34 +24,26 @@
 - [ ] Android App
 - [ ] Other: \***\*\_\_\_\_\*\***
 
-## 🌍 Environment (check all that apply)
+## Additional Information (Url, Screenshot, Video)
 
-- [ ] Production
-- [ ] Staging/Testing
-- [ ] Development
+<!-- Include screenshots, video, or code if helpful -->
 
-## ⚡ Impact Level (check one)
+## Ripple Effect
 
-- [ ] Low - Minor inconvenience
-- [ ] Medium - Affects functionality
-- [ ] High - Blocks major features
-- [ ] Critical - App/System unusable
+<!-- What other areas can be effected? -->
 
-## 💡 Context
-
-<!-- How has this affected you? What are you trying to accomplish? -->
-
-## 🔧 Environment Details
+## Environment Details
 
 **App version:**
 **Device:** (iPhone 13, Samsung Galaxy, MacBook, etc.)
 **OS:** (iOS 16.1, Android 12, Windows 11, etc.)  
+**Instance** (Production, Staging, Testing)
 **Browser:** (Chrome 108, Safari 16, etc.)
 
-## 🛠️ Possible Solution (Optional)
+## Possible Solution (Optional)
 
 <!-- Any ideas for a fix or what might be causing this? -->
 
-## 📝 Additional Information
+## Impact (Optional)
 
-<!-- Error messages, console logs, related issues, etc. -->
+<!-- Like User experience, Performance -->
