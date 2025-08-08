@@ -18,13 +18,6 @@
 - [ ] Bug Fix
 - [ ] Research/Investigation
 
-## 📈 Priority (check one)
-
-- [ ] Low - Can be done later
-- [ ] Medium - Should be done soon
-- [ ] High - Needed for story completion
-- [ ] Urgent - Blocking other work
-
 ## 📋 Requirement Documents
 
 <!-- Links to sketches, API docs, specs, wireframes -->
@@ -34,10 +27,6 @@
 - Wireframes
 - Related Story
 - Confluence
-
-## 💡 Possible Solution
-
-<!-- Suggested approach (optional) -->
 
 ## 🛠️ Possible Implementation
 
