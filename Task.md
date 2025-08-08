@@ -1,12 +1,12 @@
-## ⚡ Task Summary
+## Task Summary
 
 <!-- Single sentence describing what needs to be done -->
 
-## 🎯 Acceptance Criteria
+## Acceptance Criteria
 
 <!-- Measurable criteria - we know when we're done and it can be tested -->
 
-## 🔧 Task Type (check one)
+## Task Type (check one)
 
 - [ ] Frontend Development
 - [ ] Backend Development
@@ -18,7 +18,7 @@
 - [ ] Bug Fix
 - [ ] Research/Investigation
 
-## 📋 Requirement Documents
+## Requirement Documents
 
 <!-- Links to sketches, API docs, specs, wireframes -->
 
@@ -28,7 +28,11 @@
 - Related Story
 - Confluence
 
-## 🛠️ Possible Implementation
+## Ripple Effect
+
+<!-- What other areas can be effected? -->
+
+## Possible Implementation
 
 <!-- Technical implementation ideas -->
 
